@@ -27,6 +27,15 @@ This is a project of a library, driven by real [business requirements](#domain-d
 We use techniques strongly connected with Domain Driven Design, Behavior-Driven Development,
 Event Storming, User Story Mapping. 
 
+## SMA Roadmap
+- Step-by-step guide for event storming session.
+- Identifying bounded context.
+- Using this reference for your projects.
+
+[SMA.im](https://sma.im) (Guides will be published here)
+
+
+
 ## Domain description
 
 A public library allows patrons to place books on hold at its various library branches.
@@ -810,6 +819,9 @@ In order to see some metrics, you must create a dashboard. Go to `Create` -> `Im
 `https://grafana.com/grafana/dashboards/4701`.
 
 Please note application will be run with `local` Spring profile to setup some initial data.
+
+
+
 
 ## References
 
